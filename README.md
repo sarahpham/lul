@@ -1,4 +1,3 @@
 # lull
 
-#git good
 #gggg
